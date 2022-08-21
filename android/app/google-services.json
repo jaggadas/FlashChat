@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803825286570",
+    "project_id": "flash-chat-835ab",
+    "storage_bucket": "flash-chat-835ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803825286570:android:875d7a567f589eacaa7fd3",
+        "android_client_info": {
+          "package_name": "co.jayakarthi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803825286570-6canmb5ui0d6sjl2f6u1d3saoumvo0to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb3oLeBapO8LQwB8Hy1Ftf6C5GefbT60Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803825286570-6canmb5ui0d6sjl2f6u1d3saoumvo0to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
